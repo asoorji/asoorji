@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**AsoOrji/AsoOrji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a food exchange mobile app
 - 🌱 I’m currently learning web3 & blockchain
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me - LinkedIn: https://www.linkedin.com/in/aso-ndubuisi-orji/
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am very CHEERFUL!!!
--->
+
