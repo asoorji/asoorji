@@ -5,7 +5,7 @@
   <a href="https://drive.google.com/file/d/1Kapx1S6eT_dFWVTY6AneZya0_xyWoNdN/view">📱 Resume</a> • 
 </p>
 
-(https://user-images.githubusercontent.com/42071241/182004995-2b46a9f5-85d9-4a4b-8396-2122d7988f2e.png) (https://linktr.ee/asoorji)
+[https://user-images.githubusercontent.com/42071241/182004995-2b46a9f5-85d9-4a4b-8396-2122d7988f2e.png] (https://linktr.ee/asoorji)
 
 I am a Software Engineer 👩🏽‍💻, and a Web3 Advocate 🚀 
 
