@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![Web 1920 – 1](https://user-images.githubusercontent.com/42071241/182004967-69fccd80-9045-43db-8b84-75bba94be520.png)
-
+![Web 1920 – 1](https://user-images.githubusercontent.com/42071241/182004995-2b46a9f5-85d9-4a4b-8396-2122d7988f2e.png)
 
 
 - 🔭 I’m currently working on a food exchange mobile app
