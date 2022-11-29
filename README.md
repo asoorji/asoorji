@@ -13,7 +13,7 @@ I am very passionate about using technology to push the human race forward
 
 - 🔭 I’m currently working on a food exchange mobile app
 - 🌱 I’m currently learning web3 & blockchain
-- 💬 Ask me about building apps with flutter 
+- 💬 Ask me about building apps with flutter and nodejs
 - 📫 How to reach me - [LinkedIn](https://www.linkedin.com/in/aso-ndubuisi-orji/).
 - ⚡ Fun fact: I am very CHEERFUL!!!
 
