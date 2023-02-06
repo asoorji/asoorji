@@ -9,7 +9,7 @@
 
 
 
-I am a Software Engineer 👩🏽‍💻, and a Web3 Advocate 🚀 
+I am a Software Engineer with speciality in Flutter👩🏽‍💻 
 
 I am very passionate about using technology to push the human race forward
 
