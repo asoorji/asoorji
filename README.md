@@ -1,22 +1,21 @@
 <h3 align="center">👋 Hi, I'm Orji 💕</h3>
 <p align="center">
+  <a href="https://twitter.com/AsoOrji">💡 Twitter</a> • 
   <a href="https://linktr.ee/asoorji">🌍 Website</a> • 
-  <a href="https://www.linkedin.com/in/aso-ndubuisi-orji/">💡 LinkedIn</a> • 
-  <a href="https://drive.google.com/file/d/1QPXj_VJO8jZnd7_OmnD-MFmMByaYXuEu/view">🗒️ Resume</a> • 
 </p>
 
 ![https://linktr.ee/asoorji](https://user-images.githubusercontent.com/42071241/205438705-46298b24-b3e6-4c54-bfbe-8d68fc76d7eb.png)
 
 
 
-I am a Software Engineer with speciality in Flutter👩🏽‍💻 
+I am a Software Engineer with speciality in Flutter and Nodejs👩🏽‍💻 
 
 I am very passionate about using technology to push the human race forward
 
-- 🔭 I’m currently working on a food exchange mobile app
+- 🔭 I’m currently working on a decentralized voting system
 - 🌱 I’m currently learning web3 & blockchain
 - 💬 Ask me about building apps with flutter and nodejs
-- 📫 How to reach me - [LinkedIn](https://www.linkedin.com/in/aso-ndubuisi-orji/).
+- 📫 How to reach me - [Twitter](https://twitter.com/AsoOrji).
 - ⚡ Fun fact: I am very CHEERFUL!!!
 
 <h3 align="left">Languages and Tools:</h3>
