@@ -1,5 +1,5 @@
 <h3 align="center">👋 Hi, I'm Orji 💕</h3>
-<h3 align="center"> <a href="https://www.holbertonschool.com/">A Certified Software Engineer, Holberton School, US</a> </h3>
+<h3 align="center">Certified Software Engineer,<a href="https://www.holbertonschool.com/"> Holberton School, US 🇺🇸</a> </h3>
 <p align="center">
   <a href="https://twitter.com/AsoOrji">💡 Twitter</a> • 
   <a href="https://linktr.ee/asoorji">🌍 Website</a> • 
