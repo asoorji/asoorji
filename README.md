@@ -1,4 +1,5 @@
 <h3 align="center">👋 Hi, I'm Orji 💕</h3>
+<h3 align="center"> <a href="https://www.holbertonschool.com/">A Certified Software Engineer, Holberton School, US</a> </h3>
 <p align="center">
   <a href="https://twitter.com/AsoOrji">💡 Twitter</a> • 
   <a href="https://linktr.ee/asoorji">🌍 Website</a> • 
@@ -15,7 +16,7 @@ I am very passionate about using technology to push the human race forward
 - 🔭 I’m currently working on a decentralized voting system
 - 🌱 I’m currently learning web3 & blockchain
 - 💬 Ask me about building apps with flutter and nodejs
-- 📫 How to reach me - [Twitter](https://twitter.com/AsoOrji).
+- 📫 How to QUICKLY reach me - [WhatsApp](https://wa.me/2348129976178?text=Hi%20Orji%2C%20I%20visited%20your%20Github%20and%20was%20redirected%20here).
 - ⚡ Fun fact: I am very CHEERFUL!!!
 
 <h3 align="left">Languages and Tools:</h3>
