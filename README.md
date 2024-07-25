@@ -7,9 +7,7 @@
 
 ![https://linktr.ee/asoorji](https://user-images.githubusercontent.com/42071241/205438705-46298b24-b3e6-4c54-bfbe-8d68fc76d7eb.png)
 
-
-
-I am a Software Engineer with speciality in Flutter and Nodejs👩🏽‍💻 
+I help tech companies ship high-quality products with 0% critical bugs
 
 I am very passionate about using technology to push the human race forward
 
