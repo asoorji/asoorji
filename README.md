@@ -3,14 +3,14 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/aso-ndubuisi-orji/">💡 LinkedIn</a> •
 </p>
-
+<!--
 ![https://linktr.ee/asoorji](https://user-images.githubusercontent.com/42071241/205438705-46298b24-b3e6-4c54-bfbe-8d68fc76d7eb.png)
-
+-->
 I help tech companies ship high-quality products with 0% critical bugs
 
 I am very passionate about using technology to push the human race forward
 
-- 🔭 I’m currently working with fintechs 
+- 🔭 I’m currently working with fintechs and saas
 - 🌱 I learn and upskill daily
 - 💬 Ask me about tech 
 - 📫 How to QUICKLY reach me - [WhatsApp](https://wa.me/2348129976178?text=Hi%20Orji%2C%20I%20visited%20your%20Github%20and%20was%20redirected%20here).
