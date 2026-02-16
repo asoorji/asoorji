@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hi, I'm Orji 💕</h3>
 <h3 align="center">Certified SDET,<a href="https://www.holbertonschool.com/"> Holberton School, US 🇺🇸</a> </h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/aso-ndubuisi-orji/">💡 LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/asoorji/">💡 LinkedIn</a> •
 </p>
 <!--
 ![https://linktr.ee/asoorji](https://user-images.githubusercontent.com/42071241/205438705-46298b24-b3e6-4c54-bfbe-8d68fc76d7eb.png)
